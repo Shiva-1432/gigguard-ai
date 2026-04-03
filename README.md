@@ -584,8 +584,6 @@ gigguard-ai/
 ├── eslint.config.mjs                  ← ESLint rules
 ├── postcss.config.mjs                 ← PostCSS/Tailwind config
 ├── next-env.d.ts                      ← Next.js type definitions
-├── AGENTS.md                          ← Agent customization instructions
-├── CLAUDE.md                          ← Claude configuration reference
 │
 ├── app/                               ← Next.js App Router
 │   ├── layout.tsx                     ← Global layout with navigation
